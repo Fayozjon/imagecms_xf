@@ -8,7 +8,7 @@ $com_info = array(
         'w'           => 600,                 	
         'h'           => 550,                 
 	'version'     => '0.1',               
-	'author'      => 'dev@imagecms.net' 
+	'author'      => 'i@fb.uz' 
 );
 
 /* End of file module_info.php */
