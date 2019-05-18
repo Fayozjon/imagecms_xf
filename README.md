@@ -19,3 +19,7 @@ http://mydomain.tld/xf/field_price=min_1000/field_price/
 
 Пожелания\Предложения присылать
 i@fb.uz либо в issues
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/Fayozjon/imagecms_xf/badge.svg?style=beer-square)](https://beerpay.io/Fayozjon/imagecms_xf)  [![Beerpay](https://beerpay.io/Fayozjon/imagecms_xf/make-wish.svg?style=flat-square)](https://beerpay.io/Fayozjon/imagecms_xf?focus=wish)
